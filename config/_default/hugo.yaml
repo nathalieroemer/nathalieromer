@@ -4,9 +4,9 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 # Website name
-title: Hugo Academic CV Theme
+title: Nathalie Römer
 # Website URL
-baseURL: 'https://example.com/'
+baseURL: 'https://nathalie-romer.com/'
 
 ############################
 ## LANGUAGE
