@@ -3,6 +3,8 @@ title: Research
 url: paper
 cms_exclude: true
 date: ''
+sharer: false
+
 # Optional header image (relative to `static/media/` folder).
 #banner:
 #  caption: ''
