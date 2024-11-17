@@ -3,7 +3,9 @@ title: Research
 url: paper
 cms_exclude: true
 date: ''
-sharer: false
+share: false
+show_date: false
+reading_time: false
 
 # Optional header image (relative to `static/media/` folder).
 #banner:

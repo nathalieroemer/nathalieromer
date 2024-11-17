@@ -3,6 +3,10 @@ title: Prior & Upcoming Talks
 cms_exclude: false
 url: talk
 date: ''
+date: ''
+share: false
+show_date: false
+reading_time: false
 # View
 #view: doc
 
