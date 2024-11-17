@@ -13,35 +13,6 @@
     </image>
     
     <item>
-      <title>Example Talk</title>
-      <link>http://localhost:1313/event/example/</link>
-      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/event/example/</guid>
-      <description>&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
-&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
-  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
-&lt;/span&gt;
-  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.&lt;/span&gt;
-&lt;/div&gt;
-&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Hugo Blox Builder&amp;rsquo;s &lt;a href=&#34;https://docs.hugoblox.com/reference/content-types/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://docs.hugoblox.com/reference/markdown/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Further event details, including &lt;a href=&#34;https://docs.hugoblox.com/reference/markdown/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;page elements&lt;/a&gt; such as image galleries, can be added to the body of this page.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Projects</title>
-      <link>http://localhost:1313/projects/</link>
-      <pubDate>Sun, 19 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>🎉 Easily create your own simple yet highly customizable blog</title>
       <link>http://localhost:1313/post/get-started/</link>
       <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
@@ -278,7 +249,7 @@
 
 
 
-&lt;div id=&#34;chart-215698473&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-869315427&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -296,7 +267,7 @@
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-215698473&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-869315427&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -585,14 +556,6 @@ data.head()
   &lt;/span&gt; Python&lt;/p&gt;
 &lt;h2 id=&#34;did-you-find-this-page-helpful-consider-sharing-it-&#34;&gt;Did you find this page helpful? Consider sharing it 🙌&lt;/h2&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Experience</title>
-      <link>http://localhost:1313/experience/</link>
-      <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/experience/</guid>
-      <description></description>
     </item>
     
     <item>
@@ -923,60 +886,128 @@ Parallel 4   :         des6, after des4, 1d
     </item>
     
     <item>
-      <title>An example preprint / working paper</title>
-      <link>http://localhost:1313/publication/preprint/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/preprint/</guid>
-      <description>&lt;p&gt;This work is driven by the results in my &lt;a href=&#34;http://localhost:1313/publication/conference-paper/&#34;&gt;previous paper&lt;/a&gt; on LLMs.&lt;/p&gt;
-&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
-&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
-  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
-&lt;/span&gt;
-  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.&lt;/span&gt;
-&lt;/div&gt;
-&lt;p&gt;Add the publication&amp;rsquo;s &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; here. You can use rich formatting such as including &lt;a href=&#34;https://docs.hugoblox.com/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+      <title>Prior &amp; Upcoming Talks</title>
+      <link>http://localhost:1313/talk/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/talk/</guid>
+      <description>&lt;h3 id=&#34;2024&#34;&gt;2024&lt;/h3&gt;
+&lt;p&gt;GfeW (Cologne)&lt;/p&gt;
+&lt;h3 id=&#34;2023&#34;&gt;2023&lt;/h3&gt;
+&lt;p&gt;COPE (Amsterdam), Maastricht University Center of Neuroeconomics, EEA
+(Barcelona), Verein für Socialpolitik (Regensburg), RISE Workshop (Munich)&lt;/p&gt;
+&lt;h3 id=&#34;2022&#34;&gt;2022&lt;/h3&gt;
+&lt;p&gt;LESSAC Seminar (Dijon), ASFEE (Lyon), Brown Bag Seminar of the Organizational
+Economics Chair at LMU (Munich), ESA Europe (Bologna), Conference on
+Field Experiments in Strategy (London), 2nd Berlin Workshop on Empirical Public
+Economics: Gender Economics (Berlin)&lt;/p&gt;
+&lt;h3 id=&#34;2021&#34;&gt;2021&lt;/h3&gt;
+&lt;p&gt;ESA Global Online Around-the-Clock Meeting, GfeW (Magdeburg)&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>An example journal article</title>
-      <link>http://localhost:1313/publication/journal-article/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/journal-article/</guid>
-      <description>&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
-&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
-  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
-&lt;/span&gt;
-  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.&lt;/span&gt;
-&lt;/div&gt;
-&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
-&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
-  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
-&lt;/span&gt;
-  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.&lt;/span&gt;
-&lt;/div&gt;
-&lt;p&gt;Add the publication&amp;rsquo;s &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; here. You can use rich formatting such as including &lt;a href=&#34;https://docs.hugoblox.com/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>An example conference paper</title>
-      <link>http://localhost:1313/publication/conference-paper/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/conference-paper/</guid>
-      <description>&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
-&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
-  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
-&lt;/span&gt;
-  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.&lt;/span&gt;
-&lt;/div&gt;
-&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
-&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
-  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
-&lt;/span&gt;
-  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.&lt;/span&gt;
-&lt;/div&gt;
-&lt;p&gt;Add the publication&amp;rsquo;s &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; here. You can use rich formatting such as including &lt;a href=&#34;https://docs.hugoblox.com/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+      <title>Research</title>
+      <link>http://localhost:1313/paper/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/paper/</guid>
+      <description>&lt;h3 id=&#34;working-papers&#34;&gt;Working papers&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Effects of written self-promotions on gender bias and decision quality (with &lt;a href=&#34;https://www.inec.uni-hannover.de/de/schroeder&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Marina Schröder&lt;/a&gt;)&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-0&#34;&gt;
+  &lt;summary class=&#34;cursor-pointer&#34;&gt;Abstract&lt;/summary&gt;
+  &lt;div class=&#34;rounded-lg bg-neutral-50 dark:bg-neutral-800 p-2&#34;&gt;
+    Written self-promotion is crucial in numerous decision-making scenarios, including job applications,
+securing funds for start-ups, or academic grant proposals. In two experiments, we study the effects
+of written self-promotions agents provide to decision-makers on decision quality and gender bias. We
+show that providing such self-promotions slightly improves decision quality. Concerning gender bias, we
+find that self-promotions do not induce a gender bias that harms women. Moreover, the provision of selfpromotions
+can even eliminate pre-existing gender bias when no other performance signals are available.
+  &lt;/div&gt;
+&lt;/details&gt;&lt;/li&gt;
+&lt;li&gt;Piece-rate incentives and idea generation - An experimental analysis” (with Katharina Laske and &lt;a href=&#34;https://www.inec.uni-hannover.de/de/schroeder&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Marina Schröder&lt;/a&gt;)
+&lt;a href=&#34;https://github.com/nathalieroemer/WIT.git&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link to the word illustration task (WIT)&lt;/a&gt;&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-1&#34;&gt;
+  &lt;summary class=&#34;cursor-pointer&#34;&gt;Abstract&lt;/summary&gt;
+  &lt;div class=&#34;rounded-lg bg-neutral-50 dark:bg-neutral-800 p-2&#34;&gt;
+    Understanding how organizational design affects idea generation is key to fostering innovation.
+In the context of idea generation, incentives may impact how hard ideators work (effort) and the types
+of ideas generated. We introduce two versions of a novel experimental task to quantify both of these
+effects. We show that piece-rate (PR) incentives increase the number of innovative ideas generated.
+Incentives lead to an increase in effort provision and a shift toward generating ideas that require less
+time in the realization. If anything, aligning incentives more closely to the desirable outcomes mitigates
+the effect of PR incentives on idea generation.
+  &lt;/div&gt;
+&lt;/details&gt;&lt;/li&gt;
+&lt;li&gt;A single voice is not enough: Evidence on female representation on expert panels in startup pitching contests (with &lt;a href=&#34;https://www.zhaw.ch/de/ueber-uns/person/blah/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Richard Bläse&lt;/a&gt;)&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-2&#34;&gt;
+  &lt;summary class=&#34;cursor-pointer&#34;&gt;Abstract&lt;/summary&gt;
+  &lt;div class=&#34;rounded-lg bg-neutral-50 dark:bg-neutral-800 p-2&#34;&gt;
+    This study explores the dynamics of gender bias in expert panels using data from universitybased
+startup-pitching contexts. Experts on these panels are primarily professional investors and assess
+a series of startups to determine contest winners. Our results indicate evidence for peer effects among
+such panels. First, we find that in-group bias with respect to gender in evaluations depends on the
+share of in-group experts on the panel. Second, observing dynamics in evaluations, we can show that
+evaluations change, once experts are exposed to the opinions of their fellow panelists. We document
+gender differences in both effects, highlighting the relevance of the design of such evaluation processes
+for gender biases.
+  &lt;/div&gt;
+&lt;/details&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;work-in-progress&#34;&gt;Work in progress&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;It’s a match! Team composition and performance in innovation-related tasks (with &lt;a href=&#34;https://www.joshgraffzivin.com/about&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Joshua Graff-Zivin&lt;/a&gt;)&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-3&#34;&gt;
+  &lt;summary class=&#34;cursor-pointer&#34;&gt;Abstract&lt;/summary&gt;
+  &lt;div class=&#34;rounded-lg bg-neutral-50 dark:bg-neutral-800 p-2&#34;&gt;
+    We provide causal evidence of the effect of social connections on team formation preferences
+and team performance in an innovation-related task. Using a novel experimental design, we induce social
+connection in a large-scale online study via a short 2 minute video conversation. We can show that
+workers prefer to form a team with a lower-skilled worker they have communicated with prior to the team
+task than with higher-skilled workers they have not spoken to. This affects skill composition and social
+closeness within teams formed based on workers’ preferences. By examining team performance, we
+show that while social interaction can improve performance, preference-based matching offsets better
+outcomes. Our findings imply that self-formed teams may be configured sub-optimally as they can be
+biased by social connections.
+  &lt;/div&gt;
+&lt;/details&gt;&lt;/li&gt;
+&lt;li&gt;Group decisions (with &lt;a href=&#34;https://www.alexchan.net/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Alex Chan&lt;/a&gt; and &lt;a href=&#34;https://ockenfels.uni-koeln.de/de/profil/melisa-kurtis&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Melisa Kurtis&lt;/a&gt;)&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-4&#34;&gt;
+  &lt;summary class=&#34;cursor-pointer&#34;&gt;Abstract&lt;/summary&gt;
+  &lt;div class=&#34;rounded-lg bg-neutral-50 dark:bg-neutral-800 p-2&#34;&gt;
+    Group decision-making is crucial in economic decisions, such as in corporate boards, research
+consortia, and hiring committees. We experimentally investigate the effects of diversity in priors and input
+aggregation mechanism on team performance in an estimation task. Groups in our experiment share
+the common objective to accurately estimate the ”type” of an imperfectly observed candidate. First, we
+exogenously vary group member priors and group (prior) diversity. We find that fully diverse groups
+make more accurate estimations than partially diverse or homogenous groups. Second, we vary the format
+of decision-making. The findings reveal that performance and benefits of diversity both depend on
+the group decision-making format. Group deliberation via online chat reduces accuracy. Initial speakers
+bias the group’s estimation towards their own priors, but first speakers with minority views (of priors) lead
+to more accurate group estimations.
+  &lt;/div&gt;
+&lt;/details&gt;&lt;/li&gt;
+&lt;li&gt;The effect of advice on self-evaluation(with &lt;a href=&#34;https://www.inec.uni-hannover.de/de/schroeder&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Marina Schröder&lt;/a&gt;)&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-5&#34;&gt;
+  &lt;summary class=&#34;cursor-pointer&#34;&gt;Abstract&lt;/summary&gt;
+  &lt;div class=&#34;rounded-lg bg-neutral-50 dark:bg-neutral-800 p-2&#34;&gt;
+    We experimentally examine how different advice formats affect self-evaluations. We find
+that advice given based on noisy performance signals increases self-evaluations and success of highperformers
+while reducing success for low-performers. Both genders respond similarly to proactive advice,
+given before self-evaluation. However, reactive advice—given after a preliminary self-evaluation—
+has stronger effects on women. Consequently, high-performing women benefit from advice more than
+men, whereas low-performing women are disadvantaged. Effects differ due to asymmetric reactions to
+advice by men. Thus, while reactive advice promotes high-performing women when performance signals
+are accurate, it disproportionately harms them when misclassified.
+  &lt;/div&gt;
+&lt;/details&gt;&lt;/li&gt;
+&lt;li&gt;The effect of affirmative action on self-promotion (with &lt;a href=&#34;https://www.inec.uni-hannover.de/de/schroeder&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Marina Schröder&lt;/a&gt;)&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-6&#34;&gt;
+  &lt;summary class=&#34;cursor-pointer&#34;&gt;Abstract&lt;/summary&gt;
+  &lt;div class=&#34;rounded-lg bg-neutral-50 dark:bg-neutral-800 p-2&#34;&gt;
+    Prior literature has shown that affirmative action can affect effort choices, investments tournament
+entries or unethical behavior towards peers. In an experimental study, we seek to investigate
+effects of affirmative action on self-promotion. We systematically vary the disadvantage potentially affirmed
+individuals are facing, and whether affirmative action is in place or not. Aiming to understand
+whether affirmative action may lead to underinvestment in support, I assess impacts on willingness to
+pay for AI assistance in revising self-promotions. With these results, I aim to shed light on potential side
+effects of affirmative action for affirmed individuals and to current debates on the effectiveness of such
+policies.
+  &lt;/div&gt;
+&lt;/details&gt;&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     

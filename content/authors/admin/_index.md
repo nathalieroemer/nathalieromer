@@ -3,15 +3,15 @@
 title: Nathalie Römer
 
 # Name pronunciation (optional)
-name_pronunciation: Nathalie Römer
+name_pronunciation: 
 
 # Full name (for SEO)
 first_name: Nathalie
 last_name: Römer
 
 # Status emoji
-status:
-  icon: NathalieRömer.jpg
+#status:
+#  icon: 
 
 # Is this the primary user of the site?
 superuser: true
@@ -52,10 +52,18 @@ interests:
   - Experimental Economics
 
 education:
+  - area: PhD in economics
+    institution: Leibniz University Hannover
+    date_start: 2019-10-01
+    date_end: 2025-01-31 
+  - area: Visiting researcher
+    institution: UC San Diego
+    date_start: 2022-01-01
+    date_end: 2022-04-10
   - area: MSc Quantitative Economics
     institution: LMU Munich
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2017-10-01
+    date_end: 2019-09-10
 #    summary: |
 #      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
 #    button:
@@ -64,7 +72,7 @@ education:
   - area: BSc in Economics
     institution: LMU Munich
     date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_end: 2017-04-10
  #   summary: |
  #     GPA: 3.8/4.0
  #     Courses included:
@@ -73,8 +81,8 @@ education:
  #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - area: BSc Sociology
     institution: LMU Munich
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2013-10-01
+    date_end: 2016-06-10
 #    summary: |
 #      GPA: 3.4/4.0
 #      
@@ -82,71 +90,72 @@ education:
 #      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 #      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 #      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-work:
-  - position: Research
-    company_name: GenCoin
-    company_url: ''
-    company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+#work:
+#  - position: Student Research Assistant
+#    company_name: LMU Munich, Chair of Organizational Economics (Prof. Englmaier)
+#    company_url: ''
+#    company_logo: ''
+#    date_start: 2016-10-01
+#    date_end: 2019-10-01
+#  - position: Student Research Assistant
+#    company_name: Max Planck Institute for Innovation and Competition,  (Prof. #Harhoff)
+#    company_url: ''
+#    company_logo: ''
+#    date_start: 2016-09-01
+#    date_end: 2019-10-01
+#  - position: Student Research Assistant (project-based)
+#    company_name: LMU Munich, Institute for Human Capital Management (Prof. Weller)
+#    company_url: ''
+#    company_logo: ''
+#    date_start: 2016-09-01
+#    date_end: 2019-10-01
+#    summary: |
+#      Responsibilities include:
+#      - Migrated infrastructure to a new data center
+#      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+#      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
-skills:
-  - name: Technical Skills
-    items:
-      - name: Python
-        description: ''
-        percent: 80
-        icon: code-bracket
-      - name: Data Science
-        description: ''
-        percent: 100
-        icon: chart-bar
-      - name: SQL
-        description: ''
-        percent: 40
-        icon: circle-stack
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera
+#skills:
+#  - name: Technical Skills
+#    items:
+#      - name: Python
+#        description: ''
+#        percent: 80
+#        icon: code-bracket
+#      - name: Data Science
+#        description: ''
+#        percent: 100
+#        icon: chart-bar
+#      - name: SQL
+#        description: ''
+#        percent: 40
+#        icon: circle-stack
+#  - name: Hobbies
+#    color: '#eeac02'
+#    color_border: '#f0bf23'
+#    items:
+#      - name: Hiking
+#        description: ''
+#        percent: 60
+#        icon: person-simple-walk
+#      - name: Cats
+#        description: ''
+#        percent: 100
+#        icon: cat
+#      - name: Photography
+#        description: ''
+#        percent: 80
+#        icon: camera
 
-languages:
-  - name: English
-    percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+#languages:
+#  - name: English
+#    percent: 100
+#  - name: Chinese
+#    percent: 75
+#  - name: Portuguese
+#    percent: 25
 
 # Awards.
 #   Add/remove as many awards below as you like.

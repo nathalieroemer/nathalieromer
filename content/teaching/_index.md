@@ -2,6 +2,8 @@
 title: Teaching
 summary: My courses
 type: landing
+cms_exclude: true
+exclude: true 
 
 cascade:
   - _target:
@@ -19,5 +21,5 @@ sections:
           - teaching
     design:
       view: article-grid
-      columns: 2
+      columns: 1
 ---
