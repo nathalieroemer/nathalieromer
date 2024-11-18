@@ -18,7 +18,7 @@ main:
     weight: 12
   - name: WIT
     url: wit/
-    weight: 30
-#  - name: Teaching
-#    url: teaching/
-#    weight: 20
+    weight: 13
+  - name: CV
+    url: cv/
+    weight: 40

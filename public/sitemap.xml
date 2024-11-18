@@ -98,6 +98,9 @@
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>http://localhost:1313/cv/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>http://localhost:1313/talk/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -105,6 +108,9 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:1313/paper/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/wit/</loc>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>
