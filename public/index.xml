@@ -7,7 +7,7 @@
     <description>Nathalie Römer</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <url>http://localhost:1313/media/icon_hu10454897060370735412.png</url>
       <title>Nathalie Römer</title>
       <link>http://localhost:1313/</link>
     </image>
@@ -249,7 +249,7 @@
 
 
 
-&lt;div id=&#34;chart-845312967&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-915267348&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -267,7 +267,7 @@
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-845312967&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-915267348&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -890,17 +890,17 @@ Parallel 4   :         des6, after des4, 1d
       <link>http://localhost:1313/talk/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/talk/</guid>
-      <description>&lt;h3 id=&#34;2024&#34;&gt;2024&lt;/h3&gt;
+      <description>&lt;h4 id=&#34;2024&#34;&gt;2024&lt;/h4&gt;
 &lt;p&gt;GfeW (Cologne)&lt;/p&gt;
-&lt;h3 id=&#34;2023&#34;&gt;2023&lt;/h3&gt;
+&lt;h4 id=&#34;2023&#34;&gt;2023&lt;/h4&gt;
 &lt;p&gt;COPE (Amsterdam), Maastricht University Center of Neuroeconomics, EEA
 (Barcelona), Verein für Socialpolitik (Regensburg), RISE Workshop (Munich)&lt;/p&gt;
-&lt;h3 id=&#34;2022&#34;&gt;2022&lt;/h3&gt;
+&lt;h4 id=&#34;2022&#34;&gt;2022&lt;/h4&gt;
 &lt;p&gt;LESSAC Seminar (Dijon), ASFEE (Lyon), Brown Bag Seminar of the Organizational
 Economics Chair at LMU (Munich), ESA Europe (Bologna), Conference on
 Field Experiments in Strategy (London), 2nd Berlin Workshop on Empirical Public
 Economics: Gender Economics (Berlin)&lt;/p&gt;
-&lt;h3 id=&#34;2021&#34;&gt;2021&lt;/h3&gt;
+&lt;h4 id=&#34;2021&#34;&gt;2021&lt;/h4&gt;
 &lt;p&gt;ESA Global Online Around-the-Clock Meeting, GfeW (Magdeburg)&lt;/p&gt;
 </description>
     </item>

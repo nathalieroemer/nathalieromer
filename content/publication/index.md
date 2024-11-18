@@ -12,7 +12,8 @@ reading_time: false
 #  caption: ''
 #  image: ''
 ---
-### Working papers
+
+##### Working papers
 - Effects of written self-promotions on gender bias and decision quality (with [Marina Schröder](https://www.inec.uni-hannover.de/de/schroeder)){{< spoiler text="Abstract" >}}Written self-promotion is crucial in numerous decision-making scenarios, including job applications,
 securing funds for start-ups, or academic grant proposals. In two experiments, we study the effects
 of written self-promotions agents provide to decision-makers on decision quality and gender bias. We
@@ -36,7 +37,7 @@ evaluations change, once experts are exposed to the opinions of their fellow pan
 gender differences in both effects, highlighting the relevance of the design of such evaluation processes
 for gender biases.{{< /spoiler >}}
 
-### Work in progress
+##### Work in progress
 - It’s a match! Team composition and performance in innovation-related tasks (with [Joshua Graff-Zivin](https://www.joshgraffzivin.com/about)){{< spoiler text="Abstract" >}}We provide causal evidence of the effect of social connections on team formation preferences
 and team performance in an innovation-related task. Using a novel experimental design, we induce social
 connection in a large-scale online study via a short 2 minute video conversation. We can show that
