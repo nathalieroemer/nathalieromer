@@ -191,6 +191,6 @@ education:
 
 ## About Me
 <div style="font-size: calc(1em * 1.4) !important">
-I'm PhD student at Leibniz University Hannover. I use empirical methods to study distortions emerging in the generation and evaluation of innovative ideas, with a focus on diversity and gender bias. I employ innovative experimental designs in large-scale experiments. <a href="/paper/">My research</a> offers guidance for organizations and policy makers on designing incentives and decision-making processes to foster innovation.</div>
+I'm PhD student at Leibniz University Hannover. I use empirical methods to study distortions emerging in the generation and evaluation of innovative ideas, with a focus on diversity and gender bias. I employ <a href="/wit/">innovative experimental designs</a> in large-scale experiments. <a href="/paper/">My research</a> offers guidance for organizations and policy makers on designing incentives and decision-making processes to foster innovation.</div>
 
 <br>
