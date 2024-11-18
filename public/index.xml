@@ -249,7 +249,7 @@
 
 
 
-&lt;div id=&#34;chart-915267348&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-297534168&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -267,7 +267,7 @@
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-915267348&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-297534168&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -910,7 +910,7 @@ Economics: Gender Economics (Berlin)&lt;/p&gt;
       <link>http://localhost:1313/paper/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/paper/</guid>
-      <description>&lt;h3 id=&#34;working-papers&#34;&gt;Working papers&lt;/h3&gt;
+      <description>&lt;h4 id=&#34;working-papers&#34;&gt;Working papers&lt;/h4&gt;
 &lt;ul&gt;
 &lt;li&gt;Effects of written self-promotions on gender bias and decision quality (with &lt;a href=&#34;https://www.inec.uni-hannover.de/de/schroeder&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Marina Schröder&lt;/a&gt;)&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-0&#34;&gt;
   &lt;summary class=&#34;cursor-pointer&#34;&gt;Abstract&lt;/summary&gt;
@@ -950,7 +950,7 @@ for gender biases.
   &lt;/div&gt;
 &lt;/details&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&#34;work-in-progress&#34;&gt;Work in progress&lt;/h3&gt;
+&lt;h4 id=&#34;work-in-progress&#34;&gt;Work in progress&lt;/h4&gt;
 &lt;ul&gt;
 &lt;li&gt;It’s a match! Team composition and performance in innovation-related tasks (with &lt;a href=&#34;https://www.joshgraffzivin.com/about&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Joshua Graff-Zivin&lt;/a&gt;)&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-3&#34;&gt;
   &lt;summary class=&#34;cursor-pointer&#34;&gt;Abstract&lt;/summary&gt;
@@ -1008,6 +1008,36 @@ policies.
   &lt;/div&gt;
 &lt;/details&gt;&lt;/li&gt;
 &lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Word illustration task (WIT)</title>
+      <link>http://localhost:1313/wit/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/wit/</guid>
+      <description>
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+&lt;video autoplay loop  &gt;
+  &lt;source src=&#34;http://localhost:1313/media/video.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;
+
+&lt;p&gt;WIT is an ideation task that comes with an objective performance measure and other great advantages (check out Laske, Römer and Schröder (2024) for details). Want to use WIT? Check out the easy-to-implement version I share on &lt;a href=&#34;https://github.com/nathalieroemer/WIT.git&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Github&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     

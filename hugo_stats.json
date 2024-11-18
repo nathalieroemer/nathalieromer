@@ -58,6 +58,7 @@
       "title",
       "tr",
       "ul",
+      "video",
       "|--"
     ],
     "classes": [
@@ -497,7 +498,7 @@
       "TableOfContents",
       "about-me",
       "callouts",
-      "chart-459172386",
+      "chart-374192685",
       "charts",
       "code",
       "crowd-funded-open-source-software",
@@ -543,6 +544,7 @@
       "teaching",
       "test-students",
       "themes",
+      "this-is-wit",
       "todo-lists",
       "top",
       "video",
