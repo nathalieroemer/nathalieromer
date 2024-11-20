@@ -1,6 +1,5 @@
 ---
 title: Prior & Upcoming Talks
-cms_exclude: false
 url: talk
 date: ''
 date: ''

@@ -107,6 +107,9 @@
     <loc>http://localhost:1313/publication_types/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>http://localhost:1313/ref/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>http://localhost:1313/paper/</loc>
     <changefreq>weekly</changefreq>
   </url><url>

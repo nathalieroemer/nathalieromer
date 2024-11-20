@@ -249,7 +249,7 @@
 
 
 
-&lt;div id=&#34;chart-874596231&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-789625431&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -267,7 +267,7 @@
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-874596231&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-789625431&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -918,6 +918,33 @@ Economics: Gender Economics (Berlin)&lt;/p&gt;
     </item>
     
     <item>
+      <title>References</title>
+      <link>http://localhost:1313/ref/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ref/</guid>
+      <description>&lt;div style=&#34;text-align: center; margin-bottom: 2rem;&#34;&gt;
+  &lt;strong&gt;Marina Schröder&lt;/strong&gt;&lt;br&gt;
+  Institute for Innovation Economics&lt;br&gt;
+  Leibniz University Hannover&lt;br&gt;
+  &lt;a href=&#34;mailto:schroeder@inec.uni-hannover.de&#34;&gt;schroeder@inec.uni-hannover.de&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style=&#34;display: grid; text-align: center; grid-template-columns: 1fr 1fr; gap: 2rem;&#34;&gt;
+  &lt;div&gt;
+    &lt;strong&gt;Alex Chan&lt;/strong&gt;&lt;br&gt;
+    Harvard Business School&lt;br&gt;
+    Harvard University&lt;br&gt;
+    &lt;a href=&#34;mailto:achan@hbs.edu&#34;&gt;achan@hbs.edu&lt;/a&gt;
+  &lt;/div&gt;
+  &lt;div&gt;
+    &lt;strong&gt;Joshua Graff Zivin&lt;/strong&gt;&lt;br&gt;
+    UC San Diego School of Global Policy and Strategy&lt;br&gt;
+    &lt;a href=&#34;mailto:jgraffzivin@ucsd.edu&#34;&gt;jgraffzivin@ucsd.edu&lt;/a&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Research</title>
       <link>http://localhost:1313/paper/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -1050,6 +1077,102 @@ policies.
 &lt;/video&gt;
 
 &lt;p&gt;WIT is an ideation task that comes with an objective performance measure and other great advantages (check out Laske, Römer and Schröder (2024) for details). Want to use WIT? Check out the easy-to-implement version I share on &lt;a href=&#34;https://github.com/nathalieroemer/WIT.git&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Github&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;May personal top three ideas generated in experiments using this task:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&amp;lsquo;Dragon&amp;rsquo;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;screen reader text&#34; srcset=&#34;
+               /media/dragon_hu14189213555455848798.webp 400w,
+               /media/dragon_hu5223950468100769357.webp 760w,
+               /media/dragon_hu7918840471631775976.webp 1200w&#34;
+               src=&#34;http://localhost:1313/media/dragon_hu14189213555455848798.webp&#34;
+               width=&#34;480&#34;
+               height=&#34;427&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&amp;lsquo;Drums&amp;rsquo;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;screen reader text&#34; srcset=&#34;
+               /media/drums_hu5325686134753696930.webp 400w,
+               /media/drums_hu10096155468288539072.webp 760w,
+               /media/drums_hu12344271290522346285.webp 1200w&#34;
+               src=&#34;http://localhost:1313/media/drums_hu5325686134753696930.webp&#34;
+               width=&#34;483&#34;
+               height=&#34;430&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&amp;lsquo;Parrot&amp;rsquo;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;screen reader text&#34; srcset=&#34;
+               /media/parrot_hu16339779867796797758.webp 400w,
+               /media/parrot_hu2239415159677246844.webp 760w,
+               /media/parrot_hu10277952356700351057.webp 1200w&#34;
+               src=&#34;http://localhost:1313/media/parrot_hu16339779867796797758.webp&#34;
+               width=&#34;480&#34;
+               height=&#34;428&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
 </description>
     </item>
     
