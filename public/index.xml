@@ -249,7 +249,7 @@
 
 
 
-&lt;div id=&#34;chart-789625431&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-149368527&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -267,7 +267,7 @@
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-789625431&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-149368527&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -951,19 +951,19 @@ Economics: Gender Economics (Berlin)&lt;/p&gt;
       <guid>http://localhost:1313/paper/</guid>
       <description>&lt;h4 id=&#34;working-papers&#34;&gt;Working papers&lt;/h4&gt;
 &lt;ul&gt;
-&lt;li&gt;Effects of written self-promotions on gender bias and decision quality (with &lt;a href=&#34;https://www.inec.uni-hannover.de/de/schroeder&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Marina Schröder&lt;/a&gt;)&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-0&#34;&gt;
+&lt;li&gt;Effects of written self-promotions on gender bias and decision quality (with &lt;a href=&#34;https://www.inec.uni-hannover.de/de/schroeder&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Marina Schröder&lt;/a&gt;)&lt;a href=&#34;http://localhost:1313/uploads/SelfPromotion_RoemerSchroederNov2024.pdf&#34;&gt;[pdf]&lt;/a&gt;&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-0&#34;&gt;
   &lt;summary class=&#34;cursor-pointer&#34;&gt;Abstract&lt;/summary&gt;
   &lt;div class=&#34;rounded-lg bg-neutral-50 dark:bg-neutral-800 p-2&#34;&gt;
     Written self-promotion is crucial in numerous decision-making scenarios, including job applications,
 securing funds for start-ups, or academic grant proposals. In two experiments, we study the effects
-of written self-promotions agents provide to decision-makers on decision quality and gender bias. We
+of self-promotions written by applicants on decision-makers, focusing on decision quality and gender bias. We
 show that providing such self-promotions slightly improves decision quality. Concerning gender bias, we
 find that self-promotions do not induce a gender bias that harms women. Moreover, the provision of selfpromotions
 can even eliminate pre-existing gender bias when no other performance signals are available.
   &lt;/div&gt;
 &lt;/details&gt;&lt;/li&gt;
 &lt;li&gt;Piece-rate incentives and idea generation - An experimental analysis (with Katharina Laske and &lt;a href=&#34;https://www.inec.uni-hannover.de/de/schroeder&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Marina Schröder&lt;/a&gt;)
-&lt;a href=&#34;https://github.com/nathalieroemer/WIT.git&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link to the word illustration task (WIT)&lt;/a&gt;&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-1&#34;&gt;
+&lt;a href=&#34;http://localhost:1313/wit/&#34;&gt;Link to the word illustration task (WIT)&lt;/a&gt;&lt;a href=&#34;http://localhost:1313/uploads/IncentivesForIdeas_LaskeRoemerSchroeder.pdf&#34;&gt;[pdf]&lt;/a&gt;&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-1&#34;&gt;
   &lt;summary class=&#34;cursor-pointer&#34;&gt;Abstract&lt;/summary&gt;
   &lt;div class=&#34;rounded-lg bg-neutral-50 dark:bg-neutral-800 p-2&#34;&gt;
     Understanding how organizational design affects idea generation is key to fostering innovation.
@@ -978,7 +978,7 @@ the effect of PR incentives on idea generation.
 &lt;li&gt;A single voice is not enough: Evidence on female representation on expert panels in startup pitching contests (with &lt;a href=&#34;https://www.zhaw.ch/de/ueber-uns/person/blah/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Richard Bläse&lt;/a&gt;)&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-2&#34;&gt;
   &lt;summary class=&#34;cursor-pointer&#34;&gt;Abstract&lt;/summary&gt;
   &lt;div class=&#34;rounded-lg bg-neutral-50 dark:bg-neutral-800 p-2&#34;&gt;
-    This study explores the dynamics of gender bias in expert panels using data from universitybased
+    This study explores the dynamics of gender bias in expert panels using data from university-based
 startup-pitching contexts. Experts on these panels are primarily professional investors and assess
 a series of startups to determine contest winners. Our results indicate evidence for peer effects among
 such panels. First, we find that in-group bias with respect to gender in evaluations depends on the

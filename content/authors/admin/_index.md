@@ -189,7 +189,7 @@ education:
 #      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
-<div style="font-size: calc(1em * 1.4) !important">
+<div style="font-size: calc(1em * 1.2) !important">
 Hi, I'm PhD student at Leibniz University Hannover. I use empirical methods to study distortions emerging in the generation and evaluation of innovative ideas, with a focus on diversity and gender bias. I employ <a href="/wit/">innovative experimental designs</a> in large-scale experiments. <a href="/paper/">My research</a> offers guidance for organizations and policy makers on designing incentives and decision-making processes to foster innovation.</div>
 
 <br>
