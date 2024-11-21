@@ -16,7 +16,7 @@ reading_time: false
 #### Working papers
 - Effects of written self-promotions on gender bias and decision quality (with [Marina Schröder](https://www.inec.uni-hannover.de/de/schroeder)){{< spoiler text="Abstract" >}}Written self-promotion is crucial in numerous decision-making scenarios, including job applications,
 securing funds for start-ups, or academic grant proposals. In two experiments, we study the effects
-of written self-promotions agents provide to decision-makers on decision quality and gender bias. We
+of self-promotions written by applicants on decision-makers, focusing on decision quality and gender bias. We
 show that providing such self-promotions slightly improves decision quality. Concerning gender bias, we
 find that self-promotions do not induce a gender bias that harms women. Moreover, the provision of selfpromotions
 can even eliminate pre-existing gender bias when no other performance signals are available.{{< /spoiler >}}
@@ -28,7 +28,7 @@ effects. We show that piece-rate (PR) incentives increase the number of innovati
 Incentives lead to an increase in effort provision and a shift toward generating ideas that require less
 time in the realization. If anything, aligning incentives more closely to the desirable outcomes mitigates
 the effect of PR incentives on idea generation.{{< /spoiler >}}
-- A single voice is not enough: Evidence on female representation on expert panels in startup pitching contests (with [Richard Bläse](https://www.zhaw.ch/de/ueber-uns/person/blah/)){{< spoiler text="Abstract" >}}This study explores the dynamics of gender bias in expert panels using data from universitybased
+- A single voice is not enough: Evidence on female representation on expert panels in startup pitching contests (with [Richard Bläse](https://www.zhaw.ch/de/ueber-uns/person/blah/)){{< spoiler text="Abstract" >}}This study explores the dynamics of gender bias in expert panels using data from university-based
 startup-pitching contexts. Experts on these panels are primarily professional investors and assess
 a series of startups to determine contest winners. Our results indicate evidence for peer effects among
 such panels. First, we find that in-group bias with respect to gender in evaluations depends on the
