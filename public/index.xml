@@ -249,7 +249,7 @@
 
 
 
-&lt;div id=&#34;chart-149368527&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-187362954&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -267,7 +267,7 @@
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-149368527&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-187362954&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -991,7 +991,7 @@ for gender biases.
 &lt;/ul&gt;
 &lt;h4 id=&#34;work-in-progress&#34;&gt;Work in progress&lt;/h4&gt;
 &lt;ul&gt;
-&lt;li&gt;It’s a match! Team composition and performance in innovation-related tasks (with &lt;a href=&#34;https://www.joshgraffzivin.com/about&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Joshua Graff-Zivin&lt;/a&gt;)&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-3&#34;&gt;
+&lt;li&gt;It’s a match! Team composition and performance in innovation-related tasks (with &lt;a href=&#34;https://www.joshgraffzivin.com/about&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Joshua Graff-Zivin&lt;/a&gt;)[draft in preparation]&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-3&#34;&gt;
   &lt;summary class=&#34;cursor-pointer&#34;&gt;Abstract&lt;/summary&gt;
   &lt;div class=&#34;rounded-lg bg-neutral-50 dark:bg-neutral-800 p-2&#34;&gt;
     We provide causal evidence of the effect of social connections on team formation preferences
@@ -1005,7 +1005,7 @@ outcomes. Our findings imply that self-formed teams may be configured sub-optima
 biased by social connections.
   &lt;/div&gt;
 &lt;/details&gt;&lt;/li&gt;
-&lt;li&gt;Group decisions (with &lt;a href=&#34;https://www.alexchan.net/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Alex Chan&lt;/a&gt; and &lt;a href=&#34;https://ockenfels.uni-koeln.de/de/profil/melisa-kurtis&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Melisa Kurtis&lt;/a&gt;)&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-4&#34;&gt;
+&lt;li&gt;Group decisions (with &lt;a href=&#34;https://www.alexchan.net/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Alex Chan&lt;/a&gt; and &lt;a href=&#34;https://ockenfels.uni-koeln.de/de/profil/melisa-kurtis&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Melisa Kurtis&lt;/a&gt;)[draft in preparation]&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-4&#34;&gt;
   &lt;summary class=&#34;cursor-pointer&#34;&gt;Abstract&lt;/summary&gt;
   &lt;div class=&#34;rounded-lg bg-neutral-50 dark:bg-neutral-800 p-2&#34;&gt;
     Group decision-making is crucial in economic decisions, such as in corporate boards, research
@@ -1020,7 +1020,7 @@ bias the group’s estimation towards their own priors, but first speakers with 
 to more accurate group estimations.
   &lt;/div&gt;
 &lt;/details&gt;&lt;/li&gt;
-&lt;li&gt;The effect of advice on self-evaluation(with &lt;a href=&#34;https://www.inec.uni-hannover.de/de/schroeder&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Marina Schröder&lt;/a&gt;)&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-5&#34;&gt;
+&lt;li&gt;The effect of advice on self-evaluation (with &lt;a href=&#34;https://www.inec.uni-hannover.de/de/schroeder&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Marina Schröder&lt;/a&gt;)[draft in preparation]&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-5&#34;&gt;
   &lt;summary class=&#34;cursor-pointer&#34;&gt;Abstract&lt;/summary&gt;
   &lt;div class=&#34;rounded-lg bg-neutral-50 dark:bg-neutral-800 p-2&#34;&gt;
     We experimentally examine how different advice formats affect self-evaluations. We find
@@ -1033,7 +1033,7 @@ advice by men. Thus, while reactive advice promotes high-performing women when p
 are accurate, it disproportionately harms them when misclassified.
   &lt;/div&gt;
 &lt;/details&gt;&lt;/li&gt;
-&lt;li&gt;The effect of affirmative action on self-promotion (with &lt;a href=&#34;https://www.inec.uni-hannover.de/de/schroeder&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Marina Schröder&lt;/a&gt;)&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-6&#34;&gt;
+&lt;li&gt;The effect of affirmative action on self-promotion (with &lt;a href=&#34;https://www.inec.uni-hannover.de/de/schroeder&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Marina Schröder&lt;/a&gt;)[piloting]&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-6&#34;&gt;
   &lt;summary class=&#34;cursor-pointer&#34;&gt;Abstract&lt;/summary&gt;
   &lt;div class=&#34;rounded-lg bg-neutral-50 dark:bg-neutral-800 p-2&#34;&gt;
     Prior literature has shown that affirmative action can affect effort choices, investments tournament

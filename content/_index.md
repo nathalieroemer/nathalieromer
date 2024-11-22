@@ -61,7 +61,7 @@ sections:
             for gender biases.{{< /spoiler >}}
 
             #### Work in progress
-            - It’s a match! Team composition and performance in innovation-related tasks (with [Joshua Graff-Zivin](https://www.joshgraffzivin.com/about)){{< spoiler text="Abstract" >}}We provide causal evidence of the effect of social connections on team formation preferences
+            - It’s a match! Team composition and performance in innovation-related tasks (with [Joshua Graff-Zivin](https://www.joshgraffzivin.com/about))[draft in preparation]{{< spoiler text="Abstract" >}}We provide causal evidence of the effect of social connections on team formation preferences
             and team performance in an innovation-related task. Using a novel experimental design, we induce social
             connection in a large-scale online study via a short 2 minute video conversation. We can show that
             workers prefer to form a team with a lower-skilled worker they have communicated with prior to the team
@@ -70,7 +70,7 @@ sections:
             show that while social interaction can improve performance, preference-based matching offsets better
             outcomes. Our findings imply that self-formed teams may be configured sub-optimally as they can be
             biased by social connections.{{< /spoiler >}}
-            - Group decisions (with [Alex Chan](https://www.alexchan.net/) and [Melisa Kurtis](https://ockenfels.uni-koeln.de/de/profil/melisa-kurtis)){{< spoiler text="Abstract" >}}Group decision-making is crucial in economic decisions, such as in corporate boards, research
+            - Group decisions (with [Alex Chan](https://www.alexchan.net/) and [Melisa Kurtis](https://ockenfels.uni-koeln.de/de/profil/melisa-kurtis))[draft in preparation]{{< spoiler text="Abstract" >}}Group decision-making is crucial in economic decisions, such as in corporate boards, research
             consortia, and hiring committees. We experimentally investigate the effects of diversity in priors and input
             aggregation mechanism on team performance in an estimation task. Groups in our experiment share
             the common objective to accurately estimate the ”type” of an imperfectly observed candidate. First, we
@@ -80,7 +80,7 @@ sections:
             the group decision-making format. Group deliberation via online chat reduces accuracy. Initial speakers
             bias the group’s estimation towards their own priors, but first speakers with minority views (of priors) lead
             to more accurate group estimations.{{< /spoiler >}}
-            - The effect of advice on self-evaluation(with [Marina Schröder](https://www.inec.uni-hannover.de/de/schroeder)){{< spoiler text="Abstract" >}}We experimentally examine how different advice formats affect self-evaluations. We find
+            - The effect of advice on self-evaluation (with [Marina Schröder](https://www.inec.uni-hannover.de/de/schroeder))[draft in preparation]{{< spoiler text="Abstract" >}}We experimentally examine how different advice formats affect self-evaluations. We find
             that advice given based on noisy performance signals increases self-evaluations and success of highperformers
             while reducing success for low-performers. Both genders respond similarly to proactive advice,
             given before self-evaluation. However, reactive advice—given after a preliminary self-evaluation—
@@ -88,7 +88,7 @@ sections:
             men, whereas low-performing women are disadvantaged. Effects differ due to asymmetric reactions to
             advice by men. Thus, while reactive advice promotes high-performing women when performance signals
             are accurate, it disproportionately harms them when misclassified.{{< /spoiler >}}
-            - The effect of affirmative action on self-promotion (with [Marina Schröder](https://www.inec.uni-hannover.de/de/schroeder)){{< spoiler text="Abstract" >}}Prior literature has shown that affirmative action can affect effort choices, investments tournament
+            - The effect of affirmative action on self-promotion (with [Marina Schröder](https://www.inec.uni-hannover.de/de/schroeder))[piloting]{{< spoiler text="Abstract" >}}Prior literature has shown that affirmative action can affect effort choices, investments tournament
             entries or unethical behavior towards peers. In an experimental study, we seek to investigate
             effects of affirmative action on self-promotion. We systematically vary the disadvantage potentially affirmed
             individuals are facing, and whether affirmative action is in place or not. Aiming to understand
