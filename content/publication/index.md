@@ -14,14 +14,14 @@ reading_time: false
 ---
 
 #### Working papers
-- Effects of written self-promotions on gender bias and decision quality (with [Marina Schröder](https://www.inec.uni-hannover.de/de/schroeder))[[pdf]](/uploads/SelfPromotion_RoemerSchroederNov2024.pdf){{< spoiler text="Abstract" >}}Written self-promotion is crucial in numerous decision-making scenarios, including job applications,
+- Effects of written self-promotions on gender bias and decision quality (with [Marina Schröder](https://www.inec.uni-hannover.de/de/schroeder))[[pdf]](/uploads/SelfPromotion_RoemerSchroederNov2024.pdf) {{< spoiler text="Abstract" >}}Written self-promotion is crucial in numerous decision-making scenarios, including job applications,
 securing funds for start-ups, or academic grant proposals. In two experiments, we study the effects
 of self-promotions written by applicants on decision-makers, focusing on decision quality and gender bias. We
 show that providing such self-promotions slightly improves decision quality. Concerning gender bias, we
 find that self-promotions do not induce a gender bias that harms women. Moreover, the provision of selfpromotions
 can even eliminate pre-existing gender bias when no other performance signals are available.{{< /spoiler >}}
 - Piece-rate incentives and idea generation - An experimental analysis (with Katharina Laske and [Marina Schröder](https://www.inec.uni-hannover.de/de/schroeder)) 
-[Link to the word illustration task (WIT)](/wit/)[[pdf]](/uploads/IncentivesForIdeas_LaskeRoemerSchroeder.pdf){{< spoiler text="Abstract" >}}Understanding how organizational design affects idea generation is key to fostering innovation.
+[Link to the word illustration task (WIT)](/wit/)[[pdf]](/uploads/IncentivesForIdeas_LaskeRoemerSchroeder.pdf)  (under review){{< spoiler text="Abstract" >}}Understanding how organizational design affects idea generation is key to fostering innovation.
 In the context of idea generation, incentives may impact how hard ideators work (effort) and the types
 of ideas generated. We introduce two versions of a novel experimental task to quantify both of these
 effects. We show that piece-rate (PR) incentives increase the number of innovative ideas generated.
