@@ -21,7 +21,7 @@ show that providing such self-promotions slightly improves decision quality. Con
 find that self-promotions do not induce a gender bias that harms women. Moreover, the provision of selfpromotions
 can even eliminate pre-existing gender bias when no other performance signals are available.{{< /spoiler >}}
 - Piece-rate incentives and idea generation - An experimental analysis (with Katharina Laske and [Marina Schröder](https://www.inec.uni-hannover.de/de/schroeder)) 
-[Link to the word illustration task (WIT)](/wit/)[[pdf]](/uploads/IncentivesForIdeas_LaskeRoemerSchroeder.pdf)  (under review){{< spoiler text="Abstract" >}}Understanding how organizational design affects idea generation is key to fostering innovation.
+[Link to the word illustration task (WIT)](/wit/)[[pdf]](https://www.cesifo.org/DocDL/cesifo1_wp11594.pdf)(under review){{< spoiler text="Abstract" >}}Understanding how organizational design affects idea generation is key to fostering innovation.
 In the context of idea generation, incentives may impact how hard ideators work (effort) and the types
 of ideas generated. We introduce two versions of a novel experimental task to quantify both of these
 effects. We show that piece-rate (PR) incentives increase the number of innovative ideas generated.
