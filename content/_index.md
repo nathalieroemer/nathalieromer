@@ -37,7 +37,7 @@ sections:
       title: 'Research'
       text: |
             #### Working papers
-            - Effects of written self-promotions on gender bias and decision quality (with [Marina Schröder](https://www.inec.uni-hannover.de/de/schroeder))[[pdf]](/uploads/SelfPromotion_RoemerSchroederNov2024.pdf){{< spoiler text="Abstract" >}}Written self-promotion is crucial in numerous decision-making scenarios, including job applications,
+            - Effects of written self-promotions on gender bias and decision quality (with [Marina Schröder](https://www.inec.uni-hannover.de/de/schroeder))[[pdf]](/uploads/WP_Self-Promotion_Roemer_Schroeder.pdf){{< spoiler text="Abstract" >}}Written self-promotion is crucial in numerous decision-making scenarios, including job applications,
             securing funds for start-ups, or academic grant proposals. In two experiments, we study the effects
             of self-promotions written by applicants on decision-makers, focusing on decision quality and gender bias. 
             show that providing such self-promotions slightly improves decision quality. Concerning gender bias, we
