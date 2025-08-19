@@ -190,6 +190,6 @@ education:
 ---
 
 <div style="font-size: calc(1em * 1.2) !important">
-Hi, I'm PhD student at Leibniz University Hannover. I use empirical methods to study distortions in the generation and evaluation of innovative ideas, focusing on diversity and gender bias. I employ <a href="/wit/">innovative experimental designs</a> in large-scale experiments. <a href="/paper/">My research</a> offers guidance for organizations and policy makers on designing incentives and decision-making processes to foster innovation.</div>
+Hi, I'm a Post-doctoral Researcher and Lab Manager at WU Vienna University of Economics and Business. I use empirical methods to study distortions in the generation and evaluation of innovative ideas, focusing on diversity and gender bias. I employ <a href="/wit/">innovative experimental designs</a> in large-scale experiments. <a href="/paper/">My research</a> offers guidance for organizations and policy makers on designing incentives and decision-making processes to foster innovation.</div>
 
 <br>

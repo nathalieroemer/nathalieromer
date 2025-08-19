@@ -15,7 +15,8 @@ reading_time: false
 #  filename: ''
 ---
 
-
+#### 2025 (scheduled)
+ESA Europe (Brno), Verein für Socialpolitik (Cologne)
 #### 2024
 GfeW (Cologne)
 #### 2023

@@ -14,7 +14,7 @@ reading_time: false
 ---
 
 #### Working papers
-- Effects of written self-promotions on gender bias and decision quality (with [Marina Schröder](https://www.inec.uni-hannover.de/de/schroeder))[[pdf]](/uploads/WP_Self-Promotion_Roemer_Schroeder.pdf) {{< spoiler text="Abstract" >}}Written self-promotion is crucial in numerous decision-making scenarios, including job applications,
+- Effects of written self-promotions on gender bias and decision quality (with [Marina Schröder](https://www.inec.uni-hannover.de/de/schroeder))[[pdf]](/uploads/WP_Self-Promotion_Roemer_Schroeder.pdf) (under review) {{< spoiler text="Abstract" >}}Written self-promotion is crucial in numerous decision-making scenarios, including job applications,
 securing funds for start-ups, or academic grant proposals. In two experiments, we study the effects
 of self-promotions written by applicants on decision-makers, focusing on decision quality and gender bias. We
 show that providing such self-promotions slightly improves decision quality. Concerning gender bias, we
@@ -47,29 +47,15 @@ closeness within teams formed based on workers’ preferences. By examining team
 show that while social interaction can improve performance, preference-based matching offsets better
 outcomes. Our findings imply that self-formed teams may be configured sub-optimally as they can be
 biased by social connections.{{< /spoiler >}}
-- Group decisions (with [Alex Chan](https://www.alexchan.net/) and [Melisa Kurtis](https://ockenfels.uni-koeln.de/de/profil/melisa-kurtis))[draft in preparation]{{< spoiler text="Abstract" >}}Group decision-making is crucial in economic decisions, such as in corporate boards, research
+- Deliberate? An Experiment on Team Decision Making (with [Alex Chan](https://www.alexchan.net/) and [Melisa Kurtis](https://ockenfels.uni-koeln.de/de/profil/melisa-kurtis))[draft in preparation]{{< spoiler text="Abstract" >}}Team decision-making is crucial in economic decisions, such as in corporate boards, research
 consortia, and hiring committees. We experimentally investigate the effects of diversity in priors and input
-aggregation mechanism on team performance in an estimation task. Groups in our experiment share
+aggregation mechanism on team performance in an estimation task. Teams in our experiment share
 the common objective to accurately estimate the ”type” of an imperfectly observed candidate. First, we
-exogenously vary group member priors and group (prior) diversity. We find that fully diverse groups
-make more accurate estimations than partially diverse or homogenous groups. Second, we vary the format
+exogenously vary team member priors and team (prior) diversity. We find that fully diverse teams
+make more accurate estimations than partially diverse or homogenous teams. Second, we vary the format
 of decision-making. The findings reveal that performance and benefits of diversity both depend on
-the group decision-making format. Group deliberation via online chat reduces accuracy. Initial speakers
-bias the group’s estimation towards their own priors, but first speakers with minority views (of priors) lead
-to more accurate group estimations.{{< /spoiler >}}
-- The effect of advice on self-evaluation (with [Marina Schröder](https://www.inec.uni-hannover.de/de/schroeder))[draft in preparation]{{< spoiler text="Abstract" >}}We experimentally examine how different advice formats affect self-evaluations. We find
-that advice given based on noisy performance signals increases self-evaluations and success of highperformers
-while reducing success for low-performers. Both genders respond similarly to proactive advice,
-given before self-evaluation. However, reactive advice—given after a preliminary self-evaluation—
-has stronger effects on women. Consequently, high-performing women benefit from advice more than
-men, whereas low-performing women are disadvantaged. Effects differ due to asymmetric reactions to
-advice by men. Thus, while reactive advice promotes high-performing women when performance signals
-are accurate, it disproportionately harms them when misclassified.{{< /spoiler >}}
-- The effect of affirmative action on self-promotion (with [Marina Schröder](https://www.inec.uni-hannover.de/de/schroeder))[piloting]{{< spoiler text="Abstract" >}}Prior literature has shown that affirmative action can affect effort choices, investments tournament
-entries or unethical behavior towards peers. In an experimental study, we seek to investigate
-effects of affirmative action on self-promotion. We systematically vary the disadvantage potentially affirmed
-individuals are facing, and whether affirmative action is in place or not. Aiming to understand
-whether affirmative action may lead to underinvestment in support, I assess impacts on willingness to
-pay for AI assistance in revising self-promotions. With these results, I aim to shed light on potential side
-effects of affirmative action for affirmed individuals and to current debates on the effectiveness of such
-policies.{{< /spoiler >}}
+the team decision-making format. Team deliberation via online chat reduces accuracy. Initial speakers
+bias the team’s estimation towards their own priors, but first speakers with minority views (of priors) lead
+to more accurate team estimations.{{< /spoiler >}}
+- Guidance matters: Experimental evidence on effects of advice and feedback on self-evaluation (with [Marina Schröder](https://www.inec.uni-hannover.de/de/schroeder))[draft avialable upon request]{{< spoiler text="Abstract" >}}We experimentally investigate how guidance shapes workers’ self-evaluation. We observe that guidance from informed mentors increases the informativeness of self-evaluation independent of timing, aligning them more closely to actual performance. When offered prior to any self-assessment (advice) guidance equally increases (decreases) self-evaluation of workers who receive positive (negative) guidance. Guidance has asymmetric effects when provided based on an initial self-assessment (feedback), with stronger responses among of those receiving positive guidance. This particularly amplifying self-evaluation among workers’ classified as ‘high-potentials’, based on their performance. Although we find that initial self-evaluation influences mentors’ guidance, asymmetric effects are primarily driven by workers’ differential responses to guidance, rather than differences in its content. From the worker’s perspective, feedback is the most advantageous format of guidance while both advice and feedback enhance the efficiency of investment allocation by making self-evaluation more informative of actual performance.{{< /spoiler >}}
+- The effect of affirmative action on self-evaluation (with [Marina Schröder](https://www.inec.uni-hannover.de/de/schroeder))[draft available upon request]{{< spoiler text="Abstract" >}}We provide experimental evidence of the effects of inequality and affirmative action (AA) on self-evaluation and selection efficiency in competitive contests. The findings reveal that both inequality and AA significantly affect self-evaluation of those disadvantaged by it, while beneficiaries show no response. We document performance-dependent heterogeneity in responses to both inequality and AA, leading to reduced informativeness of self-evaluation. This tends to affect selection efficiency, increasing selection errors among decision-makers who select contest winners whenever inequality is in place. We observe that AA tends to additionally increase selection errors and that the increase is primarily due to the choice restrictions imposed. {{< /spoiler >}}
