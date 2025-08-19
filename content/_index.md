@@ -37,28 +37,23 @@ sections:
       title: 'Research'
       text: |
             #### Working papers
-            - Effects of written self-promotions on gender bias and decision quality (with [Marina Schröder](https://www.inec.uni-hannover.de/de/schroeder))[[pdf]](/uploads/WP_Self-Promotion_Roemer_Schroeder.pdf){{< spoiler text="Abstract" >}}Written self-promotion is crucial in numerous decision-making scenarios, including job applications,
+            - Effects of written self-promotions on gender bias and decision quality (with [Marina Schröder](https://www.inec.uni-hannover.de/de/schroeder))[[pdf]](/uploads/WP_Self-Promotion_Roemer_Schroeder.pdf)(under review){{< spoiler text="Abstract" >}}Written self-promotion is crucial in numerous decision-making scenarios, including job applications,
             securing funds for start-ups, or academic grant proposals. In two experiments, we study the effects
             of self-promotions written by applicants on decision-makers, focusing on decision quality and gender bias. 
             show that providing such self-promotions slightly improves decision quality. Concerning gender bias, we
             find that self-promotions do not induce a gender bias that harms women. Moreover, the provision of selfpromotions
             can even eliminate pre-existing gender bias when no other performance signals are available.{{< /spoiler >}}
             - Piece-rate incentives and idea generation - An experimental analysis (with Katharina Laske and [Marina Schröder](https://www.inec.uni-hannover.de/de/schroeder)) 
-            [Link to the word illustration task (WIT)](/wit/)[[pdf]](https://www.cesifo.org/DocDL/cesifo1_wp11594.pdf)(under review){{< spoiler text="Abstract" >}}Understanding how organizational design affects idea generation is key to fostering innovation.
+            [Link to the word illustration task (WIT)](/wit/)[[pdf]](https://www.cesifo.org/DocDL/cesifo1_wp11594.pdf){{< spoiler text="Abstract" >}}Understanding how organizational design affects idea generation is key to fostering innovation.
             In the context of idea generation, incentives may impact how hard ideators work (effort) and the types
             of ideas generated. We introduce two versions of a novel experimental task to quantify both of these
             effects. We show that piece-rate (PR) incentives increase the number of innovative ideas generated.
             Incentives lead to an increase in effort provision and a shift toward generating ideas that require less
             time in the realization. If anything, aligning incentives more closely to the desirable outcomes mitigates
             the effect of PR incentives on idea generation.{{< /spoiler >}}
-            - A single voice is not enough: Evidence on female representation on expert panels in startup pitching contests (with [Richard Bläse](https://www.zhaw.ch/de/ueber-uns/person/blah/)){{< spoiler text="Abstract" >}}This study explores the dynamics of gender bias in expert panels using data from university-based
-            startup-pitching contexts. Experts on these panels are primarily professional investors and assess
-            a series of startups to determine contest winners. Our results indicate evidence for peer effects among
-            such panels. First, we find that in-group bias with respect to gender in evaluations depends on the
-            share of in-group experts on the panel. Second, observing dynamics in evaluations, we can show that
-            evaluations change, once experts are exposed to the opinions of their fellow panelists. We document
-            gender differences in both effects, highlighting the relevance of the design of such evaluation processes
-            for gender biases.{{< /spoiler >}}
+            - Minority Judges, Major Impact? Conformity-Driven Gender Bias on Judging Panels for Startup Pitch Competitions (with [Richard Bläse](https://www.zhaw.ch/de/ueber-uns/person/blah/))[draft available upon request]{{< spoiler text="Abstract" >}}From funding pitches to job interviews, individuals often face panels—not single evaluators—whose decisions determine critical outcomes. Using novel data from Swiss startup pitch competitions, we show that the extent of in-group gender bias varies systematically with the panel’s gender composition. When the entrepreneur’s gender differs from the panel majority, same-gender judges exhibit a conformity-driven negative in-group bias, disadvantaging same-gender entrepreneurs. We establish a link between this bias and the judges’ relative confidence. Overall, our findings suggest that increasing female representation among judging panels—as often suggested—may not advance women’s success if they remain the panel minority.{{< /spoiler >}}
+            - Guidance matters: Experimental evidence on effects of advice and feedback on self-evaluation (with [Marina Schröder](https://www.inec.uni-hannover.de/de/schroeder))[draft available upon request]{{< spoiler text="Abstract" >}}We experimentally investigate how guidance shapes workers’ self-evaluation. We observe that guidance from informed mentors increases the informativeness of self-evaluation independent of timing, aligning them more closely to actual performance. When offered prior to any self-assessment (advice) guidance equally increases (decreases) self-evaluation of workers who receive positive (negative) guidance. Guidance has asymmetric effects when provided based on an initial self-assessment (feedback), with stronger responses among of those receiving positive guidance. This particularly amplifying self-evaluation among workers’ classified as ‘high-potentials’, based on their performance. Although we find that initial self-evaluation influences mentors’ guidance, asymmetric effects are primarily driven by workers’ differential responses to guidance, rather than differences in its content. From the worker’s perspective, feedback is the most advantageous format of guidance while both advice and feedback enhance the efficiency of investment allocation by making self-evaluation more informative of actual performance.{{< /spoiler >}}
+            - The effect of affirmative action on self-evaluation (with [Marina Schröder](https://www.inec.uni-hannover.de/de/schroeder))[draft available upon request]{{< spoiler text="Abstract" >}}We provide experimental evidence of the effects of inequality and affirmative action (AA) on self-evaluation and selection efficiency in competitive contests. The findings reveal that both inequality and AA significantly affect self-evaluation of those disadvantaged by it, while beneficiaries show no response. We document performance-dependent heterogeneity in responses to both inequality and AA, leading to reduced informativeness of self-evaluation. This tends to affect selection efficiency, increasing selection errors among decision-makers who select contest winners whenever inequality is in place. We observe that AA tends to additionally increase selection errors and that the increase is primarily due to the choice restrictions imposed.{{< /spoiler >}}
 
             #### Work in progress
             - It’s a match! Team composition and performance in innovation-related tasks (with [Joshua Graff-Zivin](https://www.joshgraffzivin.com/about))[draft in preparation]{{< spoiler text="Abstract" >}}We provide causal evidence of the effect of social connections on team formation preferences
@@ -70,32 +65,15 @@ sections:
             show that while social interaction can improve performance, preference-based matching offsets better
             outcomes. Our findings imply that self-formed teams may be configured sub-optimally as they can be
             biased by social connections.{{< /spoiler >}}
-            - Group decisions (with [Alex Chan](https://www.alexchan.net/) and [Melisa Kurtis](https://ockenfels.uni-koeln.de/de/profil/melisa-kurtis))[draft in preparation]{{< spoiler text="Abstract" >}}Group decision-making is crucial in economic decisions, such as in corporate boards, research
-            consortia, and hiring committees. We experimentally investigate the effects of diversity in priors and input
-            aggregation mechanism on team performance in an estimation task. Groups in our experiment share
+            - Deliberate? An Experiment on Team Decision Making (with [Alex Chan](https://www.alexchan.net/) and [Melisa Kurtis](https://ockenfels.uni-koeln.de/de/profil/melisa-kurtis))[draft in preparation]{{< spoiler text="Abstract" >}}Team decision-making is crucial in economic decisions, such as in corporate boards, research consortia, and hiring committees. We experimentally investigate the effects of diversity in priors and input
+            aggregation mechanism on team performance in an estimation task. Teams in our experiment share
             the common objective to accurately estimate the ”type” of an imperfectly observed candidate. First, we
-            exogenously vary group member priors and group (prior) diversity. We find that fully diverse groups
-            make more accurate estimations than partially diverse or homogenous groups. Second, we vary the format
+            exogenously vary team member priors and team (prior) diversity. We find that fully diverse teams
+            make more accurate estimations than partially diverse or homogenous teams. Second, we vary the format
             of decision-making. The findings reveal that performance and benefits of diversity both depend on
-            the group decision-making format. Group deliberation via online chat reduces accuracy. Initial speakers
-            bias the group’s estimation towards their own priors, but first speakers with minority views (of priors) lead
-            to more accurate group estimations.{{< /spoiler >}}
-            - The effect of advice on self-evaluation (with [Marina Schröder](https://www.inec.uni-hannover.de/de/schroeder))[draft in preparation]{{< spoiler text="Abstract" >}}We experimentally examine how different advice formats affect self-evaluations. We find
-            that advice given based on noisy performance signals increases self-evaluations and success of highperformers
-            while reducing success for low-performers. Both genders respond similarly to proactive advice,
-            given before self-evaluation. However, reactive advice—given after a preliminary self-evaluation—
-            has stronger effects on women. Consequently, high-performing women benefit from advice more than
-            men, whereas low-performing women are disadvantaged. Effects differ due to asymmetric reactions to
-            advice by men. Thus, while reactive advice promotes high-performing women when performance signals
-            are accurate, it disproportionately harms them when misclassified.{{< /spoiler >}}
-            - The effect of affirmative action on self-promotion (with [Marina Schröder](https://www.inec.uni-hannover.de/de/schroeder))[piloting]{{< spoiler text="Abstract" >}}Prior literature has shown that affirmative action can affect effort choices, investments tournament
-            entries or unethical behavior towards peers. In an experimental study, we seek to investigate
-            effects of affirmative action on self-promotion. We systematically vary the disadvantage potentially affirmed
-            individuals are facing, and whether affirmative action is in place or not. Aiming to understand
-            whether affirmative action may lead to underinvestment in support, I assess impacts on willingness to
-            pay for AI assistance in revising self-promotions. With these results, I aim to shed light on potential side
-            effects of affirmative action for affirmed individuals and to current debates on the effectiveness of such
-            policies.{{< /spoiler >}}
+            the team decision-making format. Team deliberation via online chat reduces accuracy. Initial speakers
+            bias the team’s estimation towards their own priors, but first speakers with minority views (of priors) lead
+            to more accurate team estimations.{{< /spoiler >}}
   - block: markdown
     id: wit
     content:

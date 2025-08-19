@@ -20,19 +20,19 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: PhD researcher
+role: Post-Doctoral researcher / Senior Scientist and Lab Manager
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Leibniz University
+  - name: WU Vienna University of Economics and Business
     url: https://www.inec.uni-hannover.de/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:roemer@inec-uni-hannover.de'
-    label: roemer@inec.uni-hannover.de
+    url: 'mailto:nathalieroemer@wu.ac.at'
+    label: nathalieroemer[at]wu.ac.at
 #  - icon: brands/x
 #    url: https://twitter.com/GetResearchDev
 #  - icon: brands/instagram
@@ -190,6 +190,6 @@ education:
 ---
 
 <div style="font-size: calc(1em * 1.2) !important">
-Hi, I'm a Post-doctoral Researcher and Lab Manager at WU Vienna University of Economics and Business. I use empirical methods to study distortions in the generation and evaluation of innovative ideas, focusing on diversity and gender bias. I employ <a href="/wit/">innovative experimental designs</a> in large-scale experiments. <a href="/paper/">My research</a> offers guidance for organizations and policy makers on designing incentives and decision-making processes to foster innovation.</div>
+Hi, I'm a Post-Doctoral Researcher and Lab Manager at WU Vienna University of Economics and Business. I use empirical methods to study distortions in the generation and evaluation of innovative ideas, focusing on diversity and gender bias. I employ <a href="/wit/">innovative experimental designs</a> in large-scale experiments. <a href="/paper/">My research</a> offers guidance for organizations and policy makers on designing incentives and decision-making processes to foster innovation.</div>
 
 <br>
