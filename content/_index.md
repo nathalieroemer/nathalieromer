@@ -98,6 +98,10 @@ sections:
     content:
       title: 'Prior & upcoming talks'
       text: |
+            #### 2026 (planned)
+            SIOE (Fontainebleau), Verein für Socialpolitik (Innsbruck)
+            #### 2025
+            ESA Europe (Brno), Verein für Socialpolitik (Cologne)
             #### 2024
             GfeW (Cologne)
             #### 2023

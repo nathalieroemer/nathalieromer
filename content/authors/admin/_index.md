@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nathalie Römer
+title: Dr. Nathalie Römer
 
 # Name pronunciation (optional)
 name_pronunciation: 
@@ -25,14 +25,13 @@ role: Post-Doctoral researcher / Senior Scientist and Lab Manager
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: WU Vienna University of Economics and Business
-    url: https://www.inec.uni-hannover.de/
+    url: https://research.wu.ac.at/de/persons/nathalie-r%C3%B6mer/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:nathalieroemer@wu.ac.at'
-    label: nathalieroemer[at]wu.ac.at
+    label: nathalie.roemer[at]wu.ac.at
 #  - icon: brands/x
 #    url: https://twitter.com/GetResearchDev
 #  - icon: brands/instagram
@@ -190,6 +189,6 @@ education:
 ---
 
 <div style="font-size: calc(1em * 1.2) !important">
-Hi, I'm a Post-Doctoral Researcher and Lab Manager at WU Vienna University of Economics and Business. I use empirical methods to study distortions in the generation and evaluation of innovative ideas, focusing on diversity and gender bias. I employ <a href="/wit/">innovative experimental designs</a> in large-scale experiments. <a href="/paper/">My research</a> offers guidance for organizations and policy makers on designing incentives and decision-making processes to foster innovation.</div>
+Hi, I'm a post-doctoral researcher and lab manager at the Competence Center for Experimental Research at WU Vienna University of Economics and Business. I use empirical methods to study distortions in the generation and evaluation of innovative ideas, focusing on teams, diversity and gender bias. I employ <a href="/wit/">innovative experimental designs</a> in large-scale experiments. <a href="/paper/">My research</a> offers guidance for organizations and policy makers on designing incentives and decision-making processes to foster innovation.</div>
 
 <br>

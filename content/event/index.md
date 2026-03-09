@@ -14,8 +14,9 @@ reading_time: false
 #  caption: ''
 #  filename: ''
 ---
-
-#### 2025 (scheduled)
+#### 2026 (planned)
+SIOE (Fontainebleau), Verein für Socialpolitik (Innsbruck)
+#### 2025
 ESA Europe (Brno), Verein für Socialpolitik (Cologne)
 #### 2024
 GfeW (Cologne)
