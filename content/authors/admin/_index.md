@@ -6,7 +6,7 @@ title: Dr. Nathalie Römer
 name_pronunciation: 
 
 # Full name (for SEO)
-first_name: Nathalie
+first_name: Dr. Nathalie
 last_name: Römer
 
 # Status emoji
